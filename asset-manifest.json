@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/latex-generator/static/css/main.bc654a31.css",
+    "main.js": "/latex-generator/static/js/main.febc7384.js",
+    "index.html": "/latex-generator/index.html",
+    "main.bc654a31.css.map": "/latex-generator/static/css/main.bc654a31.css.map",
+    "main.febc7384.js.map": "/latex-generator/static/js/main.febc7384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc654a31.css",
+    "static/js/main.febc7384.js"
+  ]
+}
