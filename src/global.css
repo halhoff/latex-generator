@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-outline {
+    text-shadow: 
+      -3px -3px 0 black, 
+      3px -3px 0 black, 
+      -3px 3px 0 black, 
+      3px 3px 0 black;
+  }
+}
